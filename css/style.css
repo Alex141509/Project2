@@ -1,5 +1,5 @@
 body {
-    background-color: #43ed90;
+    background-color: #4384ed;
     font-size: 16px;
     color: #000000;
     font-weight: 500;
@@ -93,13 +93,13 @@ body {
     margin-top: 30px;
     margin-bottom: 50px;
     font-family: 'Baskerville', serif;
-    text-shadow: -2px 0px #FFC2D1, 0px 2px #FFC2D1, 2px 0px #FFC2D1, 0px -2px #FFC2D1;
-    color: #FFC2D1;
+    text-shadow: -2px 0px #4093d2, 0px 2px #4c85ef, 2px 0px #2733c1, 0px -2px #473ada;
+    color: #28bb0e;
     font-size: 30px;
   }
   
   .sub-title {
-    color: #FFC2D1;
+    color: #19b521;
     font-family: 'Baskerville', serif;
     font-size: 20px;
     margin-bottom: 20px;
