@@ -1,13 +1,13 @@
 body {
-    background-color: #A0C4FF;
+    background-color: #43ed90;
     font-size: 16px;
-    color: #000;
+    color: #000000;
     font-weight: 500;
   }
   
   nav {
     overflow: hidden;
-    background-color: #B7B3FF;
+    background-color: #1325c7;
   }
   
   footer {
@@ -26,8 +26,8 @@ body {
   }
   
   iframe {
-    width: 70%;
-    height: 200px;
+    width: 80%;
+    height: 300px;
     margin: 20px auto;
     padding: 50px;
     border: 0px;
@@ -50,7 +50,7 @@ body {
     text-decoration: none;
     font-family: 'Baskerville', serif;
     font-size: 24px;
-    text-shadow: -2px 0px #651313, 0px 2px #e7003a, 2px 0px #11090b, 0px -2px #db1e4e;
+    text-shadow: -2px 0px #b91010, 0px 2px #e7003a, 2px 0px #9a0429, 0px -2px #db1e4e;
   }
   
   nav ul li a {
@@ -72,7 +72,7 @@ body {
     width: 80%;
     overflow: auto;
     padding: 20px;
-    box-shadow: 0 0 0 3px #FFC2D1, 0 0 0 10px #FFFFFF;
+    box-shadow: 0 0 0 3px #39ac13, 0 0 0 10px #1cb85d;
     text-align: center;
     margin: 40px auto;
     border-radius: 10px;
