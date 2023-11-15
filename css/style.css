@@ -26,13 +26,12 @@ body {
   }
   
   iframe {
-    width: 75%;
-    height: 300px;
+    width: 50%; 
+    height: 400px;
     margin: 20px auto;
-    padding: 50px;
+    padding: 20px; 
     border: 0px;
   }
-  
   nav ul {
     margin: 0;
     padding: 0;
